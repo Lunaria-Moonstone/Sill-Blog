@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:Lunaria-Moonstone/Lunaria-Moonstone.github.io.git
+  repository: git@github.com:Lunaria-Moonstone/Sill-Blog.git
   branch: main
