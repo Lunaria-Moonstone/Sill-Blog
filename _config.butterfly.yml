@@ -1,0 +1,21 @@
+# Menu Config
+menu:
+  HOME: /
+
+# Side Message
+aside:
+  card_author:
+    button:
+      link: https://github.com/Lunaria-Moonstone/
+
+# Image Config
+index_img: transparent
+footer_bg: transparent
+background: url("../imgs/banner.jpg")
+mask:
+  header: false
+
+favicon: /imgs/avatar.jpg
+
+avatar:
+  img: /imgs/avatar.jpg
