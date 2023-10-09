@@ -2,7 +2,6 @@
 title: greeting!
 date: 2023-10-06 18:49:00
 tags: Welcome
-cover: transparent
 ---
 
 # Greeting!
