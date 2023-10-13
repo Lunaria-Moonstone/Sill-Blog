@@ -11,11 +11,12 @@ aside:
 # Image Config
 index_img: transparent
 footer_bg: transparent
-background: url("../imgs/banner.jpg")
+background: url("https://s2.loli.net/2023/10/13/eibUCGpj2Qau58V.jpg")
 mask:
   header: false
 
-favicon: /imgs/avatar.jpg
+favicon: https://s2.loli.net/2023/10/13/OQZVm8c35ynbsFB.jpg
 
 avatar:
-  img: /imgs/avatar.jpg
+  # img: /imgs/avatar.jpg
+  img: https://s2.loli.net/2023/10/13/OQZVm8c35ynbsFB.jpg
