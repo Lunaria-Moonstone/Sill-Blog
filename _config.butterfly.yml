@@ -1,7 +1,8 @@
 # Inject html
 inject:
   head:
-    - <link rel="stylesheet" href="//storage.live.com/items/60FA62D50A0159A8!166:/iconfont.css" />
+    # - <link rel="stylesheet" href="//storage.live.com/items/60FA62D50A0159A8!166:/iconfont.css?authkey=AG1K-ogAWv5U46E" />
+    - <link rel="stylesheet" href="assets/css/iconfont.css" />
 
 # Menu Config
 menu:
