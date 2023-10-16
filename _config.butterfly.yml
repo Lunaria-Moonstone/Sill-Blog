@@ -2,11 +2,21 @@
 menu:
   HOME: /
 
+# Social icon following author github button
+social:
+  fab fa-github: https://github.com/xxxxx || Github
+  fas fa-user-secret: https://bgm.tv/user/silldimitrios || Bangumi番组计划
+
 # Side Message
 aside:
   card_author:
+    description: Don't Forget That Sky
     button:
       link: https://github.com/Lunaria-Moonstone/
+    
+  card_announcement:
+    enable: true
+    content: 新来新猪肉，博客全力完善中
 
 # Image Config
 index_img: transparent
