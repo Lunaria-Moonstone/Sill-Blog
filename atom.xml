@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SILL BLOG</title>
+  <icon>https://sill.ink/icon.png</icon>
+  
+  <link href="https://sill.ink/atom.xml" rel="self"/>
+  
+  <link href="https://sill.ink/"/>
+  <updated>2023-10-16T09:27:33.227Z</updated>
+  <id>https://sill.ink/</id>
+  
+  <author>
+    <name>SILL DIMITRIOS</name>
+    <email>sill-dimitrios@outlook.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Greeting</title>
+    <link href="https://sill.ink/2023/10/16/Greeting/"/>
+    <id>https://sill.ink/2023/10/16/Greeting/</id>
+    <published>2023-10-16T09:25:55.000Z</published>
+    <updated>2023-10-16T09:27:33.227Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Greeting&quot;&gt;&lt;a href=&quot;#Greeting&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Welcome" scheme="https://sill.ink/tags/Welcome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>若人生只如初见——观《长安三万里》有所感随笔</title>
+    <link href="https://sill.ink/2023/10/16/%E8%8B%A5%E4%BA%BA%E7%94%9F%E5%8F%AA%E5%A6%82%E5%88%9D%E8%A7%81%E2%80%94%E2%80%94%E8%A7%82%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E6%9C%89%E6%89%80%E6%84%9F%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sill.ink/2023/10/16/%E8%8B%A5%E4%BA%BA%E7%94%9F%E5%8F%AA%E5%A6%82%E5%88%9D%E8%A7%81%E2%80%94%E2%80%94%E8%A7%82%E3%80%8A%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E3%80%8B%E6%9C%89%E6%89%80%E6%84%9F%E9%9A%8F%E7%AC%94/</id>
+    <published>2023-10-16T08:57:38.000Z</published>
+    <updated>2023-10-16T09:11:54.526Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;ensp;&amp;ensp;“君不见，大河之水天上来，奔流到海不复回；君不见，高堂明镜悲白发，朝如青丝暮成雪。”&lt;br&gt;&amp;ensp;&amp;ensp;年少时不知事，懵懵懂懂，蹉跎时间而不自知，待到学会追忆，蓦然回首，许多宝贵之物已然如微风过指缝，握而不得了。这恐怕是每个人的成长都必然</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://sill.ink/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="动画感言" scheme="https://sill.ink/tags/%E5%8A%A8%E7%94%BB%E6%84%9F%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于题目《基于贝叶斯分类的河流水污染溯源》参考文献汇总</title>
+    <link href="https://sill.ink/2023/10/16/%E5%85%B3%E4%BA%8E%E9%A2%98%E7%9B%AE%E3%80%8A%E5%9F%BA%E4%BA%8E%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E7%9A%84%E6%B2%B3%E6%B5%81%E6%B0%B4%E6%B1%A1%E6%9F%93%E6%BA%AF%E6%BA%90%E3%80%8B%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%B1%87%E6%80%BB/"/>
+    <id>https://sill.ink/2023/10/16/%E5%85%B3%E4%BA%8E%E9%A2%98%E7%9B%AE%E3%80%8A%E5%9F%BA%E4%BA%8E%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E7%9A%84%E6%B2%B3%E6%B5%81%E6%B0%B4%E6%B1%A1%E6%9F%93%E6%BA%AF%E6%BA%90%E3%80%8B%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E6%B1%87%E6%80%BB/</id>
+    <published>2023-10-16T08:32:02.000Z</published>
+    <updated>2023-10-16T09:14:31.046Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目：基于贝叶斯分类的河流水污染源类别贡献判断系统的设计与实现&quot;&gt;&lt;a href=&quot;#题目：基于贝叶斯分类的河流水污染源类别贡献判断系统的设计与实现&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="学术" scheme="https://sill.ink/tags/%E5%AD%A6%E6%9C%AF/"/>
+    
+    <category term="技术" scheme="https://sill.ink/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>恍然临二十三度春秋</title>
+    <link href="https://sill.ink/2023/10/10/%E6%81%8D%E7%84%B6%E4%B8%B4%E4%BA%8C%E5%8D%81%E4%B8%89%E5%BA%A6%E6%98%A5%E7%A7%8B/"/>
+    <id>https://sill.ink/2023/10/10/%E6%81%8D%E7%84%B6%E4%B8%B4%E4%BA%8C%E5%8D%81%E4%B8%89%E5%BA%A6%E6%98%A5%E7%A7%8B/</id>
+    <published>2023-10-10T10:21:22.000Z</published>
+    <updated>2023-10-16T08:59:15.794Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;ensp;&amp;ensp;不知不觉中我的生命已经走过了二十二个春秋，这二十二载回望仿似大梦一场，无一作为，个中时日竟都禁不得细想，全然虚废了青春年华。&lt;br&gt;&amp;ensp;&amp;ensp;初初来时影作伴，而今回顾日当空。别阳关，故人熙熙攘攘，利来利往。只是尚不知人事，出口成祸，害了</summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂记" scheme="https://sill.ink/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="随笔" scheme="https://sill.ink/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>与虚渊玄的不解之缘</title>
+    <link href="https://sill.ink/2023/10/09/%E4%B8%8E%E8%99%9A%E6%B8%8A%E7%8E%84%E7%9A%84%E4%B8%8D%E8%A7%A3%E4%B9%8B%E7%BC%98/"/>
+    <id>https://sill.ink/2023/10/09/%E4%B8%8E%E8%99%9A%E6%B8%8A%E7%8E%84%E7%9A%84%E4%B8%8D%E8%A7%A3%E4%B9%8B%E7%BC%98/</id>
+    <published>2023-10-09T10:15:10.000Z</published>
+    <updated>2023-10-09T10:19:17.671Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;ensp;&amp;ensp;初中时接触的日本动画。在略为深入了解后，一个名字——本文的主人公，我与之结下不解之缘的剧作家虚渊玄——总是引起我的注意。也许是迫切想成为大人的心理在隐隐作祟，仍记着当时的我总爱追逐像《魔法少女小圆》、《Fate</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Galgame感言" scheme="https://sill.ink/tags/Galgame%E6%84%9F%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>于雪中紧拥——《天使消失的12月》完结有感</title>
+    <link href="https://sill.ink/2023/10/09/%E4%BA%8E%E9%9B%AA%E4%B8%AD%E7%B4%A7%E6%8B%A5%E2%80%94%E2%80%94%E3%80%8A%E5%A4%A9%E4%BD%BF%E6%B6%88%E5%A4%B1%E7%9A%8412%E6%9C%88%E3%80%8B%E5%AE%8C%E7%BB%93%E6%9C%89%E6%84%9F/"/>
+    <id>https://sill.ink/2023/10/09/%E4%BA%8E%E9%9B%AA%E4%B8%AD%E7%B4%A7%E6%8B%A5%E2%80%94%E2%80%94%E3%80%8A%E5%A4%A9%E4%BD%BF%E6%B6%88%E5%A4%B1%E7%9A%8412%E6%9C%88%E3%80%8B%E5%AE%8C%E7%BB%93%E6%9C%89%E6%84%9F/</id>
+    <published>2023-10-09T10:02:31.000Z</published>
+    <updated>2023-10-13T09:37:55.809Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;ensp;&amp;ensp;近日在朋友的推荐下打完了《天使消失的12月》。难得遇到一部非常喜欢的作品，自结束以来，一直思绪万千，心神难宁，想将心中所思所感悉数记录下来；但越是这种时候，越是痛恨自己哲学素养的匮乏、文字的无力，往往词不达意，只好捶胸顿足，写出一些蹒跚学步般文字，诸</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Galgame感言" scheme="https://sill.ink/tags/Galgame%E6%84%9F%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
