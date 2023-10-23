@@ -15,9 +15,11 @@ social:
   # fas fa-edit: https://www.cnblogs.com/Tachibana-Yuki/ || CN-BLOG
   # fas fa-file-edit: https://www.weibo.com/u/7856833133 || Weibo
   iconfont icon-weibo: https://www.weibo.com/u/7856833133 || 微博
-  iconfont icon-bokeyuan: https://www.cnblogs.com/Tachibana-Yuki/ || 博客园
+  iconfont icon-bokeyuan1: https://www.cnblogs.com/Tachibana-Yuki/ || 博客园
   iconfont icon-caishengdao: https://bgm.tv/user/silldimitrios || Bangumi番组计划
-  fas fa-rss: https://sill.ink/atom.xml || RSS订阅
+  iconfont icon-xieboke: https://segmentfault.com/blog/sill-dimitrios || segmentfault思否
+  iconfont icon-shejiaotubiao-46: https://www.zhihu.com/people/iwakura-rai || 知乎
+  iconfont icon-dingyue: https://sill.ink/atom.xml || RSS订阅
 
 # Side Message
 aside:
